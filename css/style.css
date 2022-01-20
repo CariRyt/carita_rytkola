@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(195, 145, 214);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: rgb(29, 29, 29)
+}
+h2 {
+    border-bottom: 3px solid rgb(197, 14, 14);
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    border-bottom: 3px solid rgb(158, 27, 27);
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+link {
+    color: rgb(180, 10, 10);
+    
+}
+a:hover {
+    color: rgb(26, 26, 160);
+}
+
+image {
+    border: 1px solid red;
+    padding: 10px;
+    opacity: 0.5;
+}
